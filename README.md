@@ -25,4 +25,4 @@ Marketing Campaigns: Highlight popular pizzas for engagement.
 Customer Experience: Align offerings with preferences, introduce loyalty programs.
 🚀 Conclusion: Our GitHub repository equips the pizza outlet with actionable recommendations to optimize operations, increase sales, and enhance customer experience. Let's collaborate and innovate in the competitive food industry! 📈💪
 
-🔗 Link to Dashboard: View Dashboard -> https://app.powerbi.com/view?r=eyJrIjoiMDE0NGU0ZWEtNjZhMi00MmRjLThiYTAtNzlmYWNmZWQ3ZWZmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true
+🔗 Link to Dashboard: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDE0NGU0ZWEtNjZhMi00MmRjLThiYTAtNzlmYWNmZWQ3ZWZmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)
