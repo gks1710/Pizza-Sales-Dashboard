@@ -1,6 +1,3 @@
-
-Absolutely, here's the revised version with the link included:
-
 🍕 Pizza Outlet Sales Analysis 📊
 
 In the dynamic food industry, leveraging data insights is pivotal for success. Our analysis of a pizza outlet's sales data on GitHub offers valuable insights into customer behavior, menu performance, and sales trends. Let's dig into the highlights:
